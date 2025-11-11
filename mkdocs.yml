@@ -1,0 +1,13 @@
+site_name: Ising Spin-Glass Encryption
+theme:
+  name: material
+nav:
+  - Home: docs/index.md
+  - Protocol: docs/protocol.md
+  - Algorithms: docs/algorithms.md
+  - Benchmarks: docs/benchmarks.md
+  - Security: docs/security.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
